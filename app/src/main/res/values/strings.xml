@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="happy_birthday_frankie">Happy Birthday Frankie!</string>
+    <string name="from_mr_zombie">From Mr. Zombie</string>
+    <string name="roll">Roll</string>
+    <string name="roll_the_dice">Roll the Dice</string>
+    <string name="result">Result</string>
+</resources>
